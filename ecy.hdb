@@ -1,0 +1,23 @@
+ECY  21
+ 1   1   H     N     CA    -C
+ 1   5   HA    CA    N      C   CB
+ 2   6   HB    CB    CA    SG
+ 1   5   HD1   CD1   SG    CD2  CD3
+ 1   2   HE1   OE1   CD2   CD1  
+ 1   2   HE3   OE3   CD3   CD4 
+ 1   5   HD3   CD3   CD1   OE3  CD4
+ 1   1   HG1   NG1   CD4   CD5
+ 1   5   HD5   CD5   NG1   CZ1  CD6
+ 2   6   HD6   CD6   CD5   CD7
+ 1   5   HD7   CD7   CD6   CD8  CD9
+ 3   4   HD8   CD8   CD7   CD6 
+ 3   4   HD9   CD9   CD7   CD6
+ 1   1   HG2   NG2   CZ2   CZ1
+ 2   6   HZ2   CZ2   NG2   CZ3
+ 2   6   HZ3   CZ3   CZ4   CZ2
+ 2   6   HZ4   CZ4   CZ5   CZ3
+ 2   6   HZ5   CZ5   NG3   CZ4
+ 1   1   HG3   NG3   CZ6   CZ5
+ 2   3   HG4   NG4   CZ6   NG3
+ 2   3   HG5   NG5   CZ6   NG3 
+
